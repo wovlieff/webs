@@ -1,8 +1,4 @@
 ---
-title: Coursere website
-author: someone
-date: 2023-11-08
-category: Jekyll
 layout: home
 ---
 
